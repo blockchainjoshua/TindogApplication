@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464330757850",
+    "firebase_url": "https://tindog-7ccd2.firebaseio.com",
+    "project_id": "tindog-7ccd2",
+    "storage_bucket": "tindog-7ccd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464330757850:android:cf3161366a6bb27a",
+        "android_client_info": {
+          "package_name": "com.example.joshuamalabs.tindog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464330757850-738plodb1t1mmesk1c9pmqrg267p7hlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joshuamalabs.tindog",
+            "certificate_hash": "181dc250e59d25fc063e20e0893cc698e3dcb9ea"
+          }
+        },
+        {
+          "client_id": "464330757850-59da7a9lv27ftuchsaol85l7obb6up3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWLnQ0GiV7cDhIeLwEIaPGNBeKTcipmkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464330757850-59da7a9lv27ftuchsaol85l7obb6up3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
